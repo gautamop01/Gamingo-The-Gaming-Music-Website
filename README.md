@@ -1,6 +1,4 @@
 # Gamingo-The-Gaming-Music-Website
-Here I am creating a gaming music website called Gamingo.
-
 Hey everyone!
 
 I'm excited to announce the newest addition to the main Website Gautam Gaming - Gamingo (The Gaming Music Website).
